@@ -2,7 +2,7 @@
 Hier werdden verschiedene Planeten beschrieben
 ## Mars
 Anfänge
-##Jupiter
+## Jupiter
 Notizen
 
 ##Contact
